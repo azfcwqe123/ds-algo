@@ -115,3 +115,9 @@ public class Bubble_Sort {
 - 작은 값이 맨 앞으로 이동하기 위해 매번 한 칸씩 교환되어야 함
 
 - 다른 단순 정렬(선택, 삽입)에 비해 비효율적
+
+---
+
+### [버블 정렬 참고 영상]
+
+https://www.youtube.com/watch?v=Cq7SMsQBEUw
