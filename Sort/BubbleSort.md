@@ -1,7 +1,5 @@
 # Bubble Sort (선택 정렬)
 
----
-
 [그림]
 
 ![BubbleSort01](https://github.com/user-attachments/assets/5ce4720f-79b6-4133-be61-5f0e45b13534)
