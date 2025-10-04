@@ -1,7 +1,5 @@
 # Selection Sort (선택 정렬)
 
----
-
 [그림]
 
 ![SelectionSort01](https://github.com/user-attachments/assets/6a63b6ea-c827-49b8-88f3-b725eccf856d)
