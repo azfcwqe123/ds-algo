@@ -27,7 +27,7 @@ public class Bubble_Sort {
         System.out.println("정렬 전 배열의 상태 출력");
         printArr(arr); 
         
-        bubbleSort(arr, arr.length); // 선택 정렬
+        bubbleSort(arr, arr.length); // 버블 정렬
 
         System.out.println("정렬 후 배열의 상태 출력");
         printArr(arr);
