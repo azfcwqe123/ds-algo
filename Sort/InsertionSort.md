@@ -32,6 +32,7 @@ public class Insertion_Sort {
 
     }
 
+    // 삽입 정렬
     private static void insertionSort(int[] arr, int len) {
         
         for(int i = 1; i < len; i++) {
