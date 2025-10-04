@@ -1,7 +1,5 @@
 # Insertion Sort (삽입 정렬)
 
----
-
 [그림]
 
 ![InsertionSort01](https://github.com/user-attachments/assets/64ac7744-d372-4937-8169-666276c29987)
@@ -88,7 +86,7 @@ public class Insertion_Sort {
 
 ---
 
-## 삽입 정렬의 장점 & 단점
+### 삽입 정렬의 장점 & 단점
 
 #### [장점]
 
@@ -117,3 +115,9 @@ public class Insertion_Sort {
 2. **교환(이동) 횟수가 많을 수 있음**
 
 - 데이터가 역순으로 정렬되어 있는 경우, 거의 모든 원소를 계속 뒤로 밀어야 함
+
+---
+
+### [삽입 정렬 참고 영상]
+
+https://www.youtube.com/watch?v=8oJS1BMKE64
