@@ -4,6 +4,11 @@
 
 [그림]
 
+![BubbleSort01](https://github.com/user-attachments/assets/5ce4720f-79b6-4133-be61-5f0e45b13534)
+
+![BubbleSort02](https://github.com/user-attachments/assets/fe9d6e8a-b3dc-420e-b330-ef40d997b0b1)
+
+![BubbleSort03](https://github.com/user-attachments/assets/b66f656a-4849-4062-a4c9-95acddd27261)
 
 ---
 
@@ -31,6 +36,7 @@ public class Bubble_Sort {
 
     }
 
+    // 버블 정렬
     private static void bubbleSort(int[] arr, int len) {
         for(int i = 0; i < len - 1; i++) {
             for(int j = 0; j < len - i - 1; j++) {
@@ -62,10 +68,10 @@ public class Bubble_Sort {
 1부터 100까지의 난수 10개를 생성합니다.
 
 정렬 전 배열의 상태 출력
-39 49 33 19 14 62 96 67 6 72
+60 93 57 38 86 42 61 60 73 97
 
 정렬 후 배열의 상태 출력
-6 14 19 33 39 49 62 67 72 96
+38 42 57 60 60 61 73 86 93 97
 ```
 
 결과2
@@ -74,10 +80,10 @@ public class Bubble_Sort {
 1부터 100까지의 난수 10개를 생성합니다.
 
 정렬 전 배열의 상태 출력
-39 49 33 19 14 62 96 67 6 72
+77 78 18 99 87 32 28 67 23 54
 
 정렬 후 배열의 상태 출력
-6 14 19 33 39 49 62 67 72 96
+18 23 28 32 54 67 77 78 87 99
 ```
 
 ---
